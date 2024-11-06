@@ -1,0 +1,1 @@
+{"name":"Local: 2d","url":"c:\\Users\\Habibur Rahman\\Desktop\\DSA\\pre_computation\\prefix_sum\\2d.cpp","tests":[{"id":1711446421747,"input":"3\n3 6 2\n8 9 2\n3 4 1\n2\n1 1 2 2\n1 2 3 3","output":"26\n24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Habibur Rahman\\Desktop\\DSA\\pre_computation\\prefix_sum\\2d.cpp","group":"local","local":true}
