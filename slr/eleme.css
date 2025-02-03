@@ -1,0 +1,23 @@
+/*  */
+
+.woocommerce div.product form.cart .variations tr {
+    display: block;
+   margin-bottom: 1em;
+}
+   .woocommerce div.product form.cart .variations tr {
+   /* display: flex; */
+   /* flex-wrap: wrap; */
+   /* margin-bottom: 1em; */
+}
+
+.woocommerce div.product form.cart .variations td.label, .woocommerce div.product form.cart .variations th.label {
+   width: 100%;
+   padding-right: 1em;
+}
+
+.elementor-element .swiper-container .swiper-image-stretch .swiper-slide .swiper-slide-image, .elementor-element .swiper .swiper-image-stretch .swiper-slide .swiper-slide-image, .elementor-lightbox .swiper-container .swiper-image-stretch .swiper-slide .swiper-slide-image, .elementor-lightbox .swiper .swiper-image-stretch .swiper-slide .swiper-slide-image {
+   width: 100%;
+   height: 300px;
+}
+
+
