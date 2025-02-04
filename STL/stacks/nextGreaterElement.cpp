@@ -7,6 +7,7 @@ vector<int> NGE(vector<int> v){
     vector<int> nge(v.size());
     stack<int> st;
     for(int i = 0; i<v.size(); i++){
+        
         while(!st.empty() && v[i] > v[st.top()]){
             nge[st.top()] = i;
             st.pop();

@@ -1,4 +1,4 @@
-#Resources For Competitive Programming
+# Resources For Competitive Programming
 
 ## 📺 YouTube Playlist
 
@@ -9,7 +9,51 @@
 - [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 - [Tushar Roy's Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-# Copy from - [ashishps1](https://github.com/ashishps1/awesome-leetcode-resources/tree/main)
+## Youtube channel
+
+- [Luv](https://www.youtube.com/@iamluv)
+- [takeUforward](https://www.youtube.com/@takeUforward)
+- https://www.youtube.com/@PriyanshAgarwal
+- https://www.youtube.com/@ColinGalen
+- https://www.youtube.com/@codencode
+
+## Recommanded blogs & tutorials that you can follow through your whole journey
+
+## Blogs
+
+- https://codeforces.com/blog/entry/68288
+- [Codeforces - Tutorial and tips to reach Expert](https://codeforces.com/blog/entry/81882#:~:text=You%20need%20to%20solve%204,see%20editorial%20after%2030%20mins).
+- https://codeforces.com/blog/entry/91363
+
+## ICPC
+
+- https://github.com/juanplopes/icpc
+- https://codeforces.com/blog/entry/111795
+
+## CP List
+
+- https://takeuforward.org/interview-experience/strivers-cp-sheet/
+- https://www.tle-eliminators.com/cp-sheet
+- https://cses.fi/problemset/
+- https://youkn0wwho.academy/topic-list
+- https://atcoder.jp/contests/dp/tasks
+- https://earthshakira.github.io/a2oj-clientside/server/Ladders.html
+- https://www.acodedaily.com/
+- https://the-a2oj.vercel.app/ladders/rating_1
+- https://codeforces.com/blog/entry/55274
+- [CP roadmap by Colin Galen](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit)
+
+## CP List - Vjudge
+
+- [Learning new Language](https://vjudge.net/group/general-training)
+- [New to CP](https://vjudge.net/group/icpc-bronze)
+- [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm/contests)
+
+## Notes
+
+- [Backtracking Apna College](https://docs.google.com/document/d/1YcccD6X67qPPy6EzMbU-IG1GXj6JOKma9mMPVd1JuJM/edit?usp=sharing)
+
+## Copy from - [ashishps1](https://github.com/ashishps1/awesome-leetcode-resources/tree/main)
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
