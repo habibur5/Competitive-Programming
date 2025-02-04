@@ -1,1 +1,0 @@
-for n in[*open(0)][1:]:print(n[:-1:2]+n[-2])
