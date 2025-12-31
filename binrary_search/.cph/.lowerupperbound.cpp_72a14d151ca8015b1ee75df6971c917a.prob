@@ -1,1 +1,0 @@
-{"name":"Local: lowerupperbound","url":"f:\\Coding\\Competitive Programming\\binrary_search\\lowerupperbound.cpp","tests":[{"id":1734034411927,"input":"6\n2 3 4 6 7 8\n2","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Competitive Programming\\binrary_search\\lowerupperbound.cpp","group":"local","local":true}

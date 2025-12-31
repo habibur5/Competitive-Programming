@@ -7,12 +7,10 @@ void merge(int l, int r, int mid){
     int L [l_sz+1];
     int r_sz  = r -mid; // r- (mid+1)+1
     int R[ r_sz+1];
-    for (int i = 0; i < l_sz; i++)
-    {
+    for (int i = 0; i < l_sz; i++){
         L[i] = a[i+l];
     }
-        for (int i = 0; i < r_sz; i++)
-    {
+    for(int i = 0; i < r_sz; i++){
         R[i] = a[i+l+mid];
     }
     L[l_sz] = R[r_sz] = INT_MAX;
@@ -45,7 +43,7 @@ int main(){
     {
         cin>>a[i];
     }
-    for (int i = 0; i < n; i++)
+    /* for (int i = 0; i < n; i++)
     {
         int minIndex = i;
         for (int j = i+1; j < n; j++)
@@ -55,7 +53,9 @@ int main(){
             }
         }
         swap(a[i], a[minIndex]);
-    }
+    } */
+
+    
     for(auto it: a){
         cout<<it<<" ";
     }

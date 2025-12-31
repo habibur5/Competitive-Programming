@@ -14,7 +14,8 @@ int main(){
     cout<<all_of(v.begin(),v.end(),is_positive)<<endl; // is all condition true return 1 if true else 0
     cout<<any_of(v.begin(), v.end(), [](int x){return x>0;})<<endl; // is there any condition true return 1 if true else 0
     cout<<none_of(v.begin(), v.end(), [](int x){return x>0;})<<endl; // is there no condition true
-     return 1 if true else 0
+    // return 1 if true else 0
+    
 
 
     return 0;

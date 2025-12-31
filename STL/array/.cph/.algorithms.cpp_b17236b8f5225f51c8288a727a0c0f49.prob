@@ -1,1 +1,0 @@
-{"name":"Local: algorithms","url":"f:\\Coding\\Competitive Programming\\STL\\array\\algorithms.cpp","tests":[{"id":1733768080252,"input":"6\n2 3 1 6 7 6","output":"1\n7\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Competitive Programming\\STL\\array\\algorithms.cpp","group":"local","local":true}

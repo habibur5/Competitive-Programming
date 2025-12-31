@@ -1,4 +1,8 @@
 # Resources For Competitive Programming
+## Solve Topic Wise problems
+ -[Hacker Earth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/?sort_by=partially%20solved&p_level=easy)
+
+
 
 ## 📺 YouTube Playlist
 
@@ -9,13 +13,38 @@
 - [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 - [Tushar Roy's Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
+
+## Learn DSA by visual representation 
+
+- [[best]Data Structure Visualizations ](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Visual Algo](https://visualgo.net/en)
+- [Visualizations](https://algorithm-visualizer.org/)
+- [[step by step]Hacker Rank](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
+- [[not bad]algo visual](https://elysian01.github.io/Algorithms-Visualization/index.html)
+- [[run Local] Github](https://github.com/TamimEhsan/AlgorithmVisualizer)
+ -- [live](https://tamimehsan.github.io/AlgorithmVisualizer/)
+- [Sudoku Generator, Sudoku Solver, N Queens, Knight's Tour)](https://backtracking-visualizer-production.up.railway.app/)
+
 ## Youtube channel
 
 - [Luv](https://www.youtube.com/@iamluv)
 - [takeUforward](https://www.youtube.com/@takeUforward)
-- https://www.youtube.com/@PriyanshAgarwal
-- https://www.youtube.com/@ColinGalen
-- https://www.youtube.com/@codencode
+- [PriyanshAgarwal](https://www.youtube.com/@PriyanshAgarwal)
+- [ColinGalen](https://www.youtube.com/@ColinGalen)
+- [codencode](https://www.youtube.com/@codencode)
+
+
+# Important problem for learning Competitive
+## Luv competitive programming problem list
+### Basics 
+-- [Hello Word](https://www.hackerrank.com/challenges/cpp-hello-world/problem)
+-- [Basic Data Types ( Ignore scanf printf given in the question, use cin cout) ](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)
+-- [Input And Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
+
+### Recursion
+- https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
+- https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1
+- 
 
 ## Recommanded blogs & tutorials that you can follow through your whole journey
 
